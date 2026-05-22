@@ -8,6 +8,7 @@ gin:
     sw:
       enabled: true
       path: "devprofile/sw"
+      jsonPath: "docs"
 postgres:
   - name: developer_profile_postgres
     enabled: true
